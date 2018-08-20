@@ -1,6 +1,9 @@
 Morse Code
 ==========
 
+UPDATE: This was my code submission to a company called TrueFit from several years ago. I was applying for a front end developer position at the time, so I focused my efforts on JavaScript. Though I would do many things differently now - like use modules, build steps with a tool like Webpack or Rollup and Babel or some other transpiler with ES6+ syntax - I like to keep this around for a few reasons but, mostly, it serves as a demonstration of how I've grown over the years.
+
+
 The Problem
 -----------
 Morse code is a way to encode messages in a series of long and short sounds or visual signals. During transmission, operators use pauses to split letters and words.
